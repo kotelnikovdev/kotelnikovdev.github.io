@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b99fe01b.chunk.css",
+    "main.js": "/static/js/main.8ce12d4f.chunk.js",
+    "main.js.map": "/static/js/main.8ce12d4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e7aadbd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e7aadbd.js.map",
+    "static/css/2.b91f0a01.chunk.css": "/static/css/2.b91f0a01.chunk.css",
+    "static/js/2.593d17f6.chunk.js": "/static/js/2.593d17f6.chunk.js",
+    "static/js/2.593d17f6.chunk.js.map": "/static/js/2.593d17f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b91f0a01.chunk.css.map": "/static/css/2.b91f0a01.chunk.css.map",
+    "static/css/main.b99fe01b.chunk.css.map": "/static/css/main.b99fe01b.chunk.css.map",
+    "static/js/2.593d17f6.chunk.js.LICENSE.txt": "/static/js/2.593d17f6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ProximaNovaT-Thin.a96ccdb7.eot",
+    "static/media/arrow.60d0fa18.svg": "/static/media/arrow.60d0fa18.svg",
+    "static/media/domens.444da5a4.svg": "/static/media/domens.444da5a4.svg",
+    "static/media/journal.9726796a.svg": "/static/media/journal.9726796a.svg",
+    "static/media/main_logo.b217da1e.svg": "/static/media/main_logo.b217da1e.svg",
+    "static/media/notific-logo.8eb3316c.svg": "/static/media/notific-logo.8eb3316c.svg",
+    "static/media/user.dc1fb223.svg": "/static/media/user.dc1fb223.svg",
+    "static/media/vps.d94ed3ae.svg": "/static/media/vps.d94ed3ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e7aadbd.js",
+    "static/css/2.b91f0a01.chunk.css",
+    "static/js/2.593d17f6.chunk.js",
+    "static/css/main.b99fe01b.chunk.css",
+    "static/js/main.8ce12d4f.chunk.js"
+  ]
+}
